@@ -1,3 +1,5 @@
+[url "https://hub.fastgit.xyz/"]
+  insteadOf = https://github.com/
 [submodule "third_party/pybind11"]
     ignore = dirty
     path = third_party/pybind11
